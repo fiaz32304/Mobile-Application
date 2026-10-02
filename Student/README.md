@@ -1,4 +1,4 @@
-# 📱 Student Application
+# 📱 Student Applicationn
 
 A Flutter-based mobile application designed for student management and academic tracking.
 
